@@ -1,6 +1,7 @@
 # Customs
 *.css.map
 *.scss
+*.jpg
 
 # Logs
 logs
